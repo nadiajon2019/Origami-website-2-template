@@ -23,8 +23,8 @@ a:link{
 /*a:old*/
 /*a:clicked*/
 /*a:seen{*/
-/*a:visited{*/
-    color: #ffffff;
+a:visited{
+    color: #FFFFFF;
 }
 
 .bodyimg{
@@ -71,7 +71,7 @@ a:link{
     
 }
 
-/* .origami:hover{ */
+ .origami:hover{ 
 /*.origami : mouseover{*/
 /*.origami:link{*/
 /*origami:hover{*/
